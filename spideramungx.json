@@ -1,0 +1,46 @@
+{
+  "ADS_STATION": [
+    {
+      
+      "tapDaqBanner": "banner",
+      "tapDaqInit": "init",
+      "tapDaqNative": "native",
+      "applicationId": "60d7366208fe6c2d735d6730",
+         "clientId": "54c9b78a-0977-4333-90fe-809486bf1d5a"
+    }
+  ],
+    "guid": [
+    {
+      
+      "scan": "<p>An audit allows you to take a detailed analysis of your marketing. A comprehensive audit will cover all areas of your promotional efforts and considers your goals, principles, and strategies. Typically, an audit will look at your internal and external promotional efforts and examine all your marketing properties, such as your website content, blogs, and email response rates.</p>",
+      "create": "creare description",
+      "history": "history",
+      "setting": "setting"
+         
+    }
+    ],
+     "exit": [
+    {
+      "imageUrl": "https://1.bp.blogspot.com/--FBgyCWzr0Y/YN0gjAZqNoI/AAAAAAAALqo/X9QOam1lAMc9fMwGTk6YvZYx-m9B5-iKgCLcBGAsYHQ/s360/unnafmed.png",
+      "appName": "Free Fire",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    },
+      {
+      "imageUrl": "https://1.bp.blogspot.com/-bprGb_GUY6g/YN0gj2B4LMI/AAAAAAAALqs/T0KusPAjEW4MS4vqa1q3JeZejggSPE_MACLcBGAsYHQ/s360/unnamed.png",
+    "appName": "Super Mario",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    },
+      {
+      "imageUrl": "https://1.bp.blogspot.com/-GMdboOYlvns/YN0gkTpkXuI/AAAAAAAALqw/Up0OWBOn9M872JOrlIpljV-PHw1x44wTwCLcBGAsYHQ/s360/unnameed.png",
+      "appName": "GTA 5",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    },
+      {
+      "imageUrl": "https://1.bp.blogspot.com/-664HiuYU7PA/YN0hnjbVZoI/AAAAAAAALq8/xyvEHeng2PIsITlmej5p1YnhKWAthfPHACLcBGAsYHQ/s477/CaJKLKpture.JPG",
+       "smallUrl": "https://1.bp.blogspot.com/--FBgyCWzr0Y/YN0gjAZqNoI/AAAAAAAALqo/X9QOam1lAMc9fMwGTk6YvZYx-m9B5-iKgCLcBGAsYHQ/s360/unnafmed.png",
+      "appName": "PUBG GAME",
+      "exitAppMsg": "exit msg",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    }
+  ]
+}
