@@ -1,0 +1,36 @@
+{
+  "ADS_STATION": [
+    {
+      
+      "tapDaqBanner": "banner",
+      "tapDaqInit": "init",
+      "tapDaqNative": "native",
+      "applicationId": "60d7366208fe6c2d735d6730",
+         "clientId": "54c9b78a-0977-4333-90fe-809486bf1d5a"
+    }
+  ],
+   "exit": [
+    {
+      "imageUrl": "https://elbertewagner.github.io/adsaccount5/index.jpg",
+      "appName": "Guid App1",
+      "appUrl": ""
+    },
+      {
+      "imageUrl": "https://elbertewagner.github.io/adsaccount5/index.jpg",
+    "appName": "Guid App2",
+      "appUrl": ""
+    },
+      {
+      "imageUrl": "https://elbertewagner.github.io/adsaccount5/index.jpg",
+      "appName": "Guid App3",
+      "appUrl": ""
+    },
+      {
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/ipl-app-39cfe.appspot.com/o/lrp_AtSy_400x400.jpg?alt=media&token=32b34e8b-8dbe-4960-8b6a-af121472e826",
+       "smallUrl": "https://firebasestorage.googleapis.com/v0/b/ipl-app-39cfe.appspot.com/o/lrp_AtSy_400x400.jpg?alt=media&token=32b34e8b-8dbe-4960-8b6a-af121472e826",
+      "appName": "Guid App4",
+      "exitAppMsg": "exit msg",
+      "appUrl": ""
+    }
+  ]
+}
